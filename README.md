@@ -175,5 +175,4 @@ Laravel needs almost no other configuration out of the box. You are free to get 
 Once Laravel is installed, you should also configure your local environment. 
  
  Authors names are NIYONKURU telesphore && NISHIMIRWE Liliane                                                                         
-
-
+ Authors names and registration nummber: NIYONKURU Telesphore 18RP01486 && NISHIMIRWE Liliane 18RP00896
